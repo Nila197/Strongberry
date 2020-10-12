@@ -1,1 +1,5 @@
-[{"skillId":5,"skillName":"JavaScript,Angular","skillCategory":"FrontEnd"},{"skillId":9,"skillName":"Agile","skillCategory":"Testing"}]
+[{"skillId":5,"skillName":
+    "JavaScript,Angular",
+    "skillCategory":"FrontEnd"},
+    {"skillId":9,"skillName":"Agile","skillCategory":"Testing",
+        "skillRating":4}]
